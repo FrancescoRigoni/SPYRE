@@ -1,4 +1,4 @@
-SPYRE - Simple Python 3 RegExp Engine
+SPYRE - Simple PYthon 3 RegExp Engine
 ====================================
 
 Weekend project, it can compile and match against common RegExps.
